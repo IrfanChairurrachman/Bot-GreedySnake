@@ -6,7 +6,7 @@
 
 **About:**
 
-This is bot snake using Greedy Best-First Search algorithm. The snake will choose the closest direction to the food as determined by heuristic function (in this project `def greedy(direc, pos, goal, body)). The function calculate and estimates how close snake head with the food. So, this snake will chase the food automatically until the snake hits it's own body.
+This is bot snake using Greedy Best-First Search algorithm. The snake will choose the closest direction to the food as determined by heuristic function (in this project `def greedy(direc, pos, goal, body)`). The function calculate and estimates how close snake head with the food. So, this snake will chase the food automatically until the snake hits it's own body.
 
 I really inspired and helped from [CS50 AI](https://cs50.harvard.edu/ai/2020/) that really helped me understanding Greedy algorithm and made me excited to implement in this snake game.
 
